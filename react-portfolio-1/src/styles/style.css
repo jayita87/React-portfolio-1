@@ -70,7 +70,7 @@ h3 {
   }
   
   .hero {
-    background: #1d3557;
+    background-image: linear-gradient( 109.6deg,  rgba(48,207,208,1) 11.2%, rgba(51,8,103,1) 92.5% );
     color: #F1FAEE;
     padding: 2px 0 18px;
     border: none;
@@ -78,8 +78,8 @@ h3 {
   }
   
   .nav {
-    background: #1d3557;
-    background-color: #1d3557;
+    /* background: #1d3557; */
+    background-image: linear-gradient( 138deg,  rgba(32,201,255,1) 36.7%, rgba(0,8,187,1) 84.4%, rgba(255,255,255,1) 119.7% );
     color: #F1FAEE;
     padding: 10px 10px 0px 10px;
     display: flex;
@@ -90,7 +90,7 @@ h3 {
   }
   
   .button {
-    background-color: #e63946;
+    background-image: linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%);
     color: white;
     border: none;
     border-radius: 4px;
@@ -99,7 +99,7 @@ h3 {
   }
   
   #button {
-    background-color: #e63946;
+    background-image: linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%);
     color: white;
     border: none;
     border-radius: 4px;
@@ -108,7 +108,7 @@ h3 {
   }
   
   #root {
-    background-color: #F1FAEE;
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
   }
   
   #h2 {
